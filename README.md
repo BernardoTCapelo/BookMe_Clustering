@@ -6,6 +6,7 @@ Globally, the company had stable revenues and a healthy bottom line in the past 
 ## Table of Contents
 * Project Objectives
 * Dataset
+* Project Structure
 * Project Status
 
 ## Project Objectives
@@ -36,6 +37,14 @@ The dataset contain the following attributes:
 * CheckIn - Satisfaction level of customer regarding check-in (0 to 5)
 * Cleanliness - Satisfaction level of customer regarding cleanliness (0 to 5)
 * BarService - Satisfaction level of customer regarding bar service (0 to 5)
+
+## Project Structure
+The project consists of 4 parts:
+* Data Exploration
+* Data Cleaning and Transformation
+* Visual Analysis
+* Clustering Models
+* Final Analysis | Insights
 
 ## Project Status
 Finished.
